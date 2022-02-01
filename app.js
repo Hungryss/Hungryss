@@ -5,9 +5,9 @@
 	rollover.src="over.gif";
 
 	function onMouseOut(){
-		document.images["rollout"].src="out.gif";
+		document.images["rollout"].src="img/img1.swf";
 	};
 	function onMouseOver(){
-		document.images["rollout"].src="over.gif";
+		document.images["rollout"].src="img/img1.swf";
 	};
 </script>
